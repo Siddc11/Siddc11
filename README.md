@@ -1,19 +1,18 @@
 
-<h1 align="center">Hi 👋, I'm Siddhesh</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h1 align="center">Hello 👋, I'm Siddhesh Chaudhari</h1>
+<h3 align="center">React Native Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddc11&label=Profile%20views&color=0e75b6&style=flat" alt="siddc11" /> </p>
 
-- 🔭 I’m currently ** pursuing Bachelor Degree(B.Tech) at Pimpri Chinchwad College of Engineering (PCCOE).**
+- 🔭 I’m currently **pursuing Bachelor Degree(B.Tech) @ Pimpri Chinchwad College of Engineering (PCCOE).**
 
 - 🌱 I’m  **💻 React Native Developer having addition strong grip in DSA.**
 
 - 📫 You can reach me at **siddheshchaudhari910@gmail.com**
 
-- 😅Fun fact about me **I am not so funny**
 
 <h3 align="left">🤝Lets connect & Grow Together</h3>
 <p align="left">
